@@ -1,5 +1,5 @@
 package CS401MPPSolutions.TFProb3;
-
+//Class : : Static method
 public class Utility{
     public static String toUpperCase(String str){
         return str.toUpperCase();
